@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waleed Zahid</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan building scalable and user-friendly web applications</h3>
 
-- 🌱 I’m currently learning **Framer Motion**
+- 🌱 I’m currently learning **LLMS | GPT | Lambdas**
 
 - 💬 Ask me about **React, Next.js and Typescript**
 
