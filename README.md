@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Waleed Zahid</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan building scalable and user-friendly web applications</h3>
+# Hi, I'm Waleed Zahid 👋
+### Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js
 
-- 🌱 I’m currently learning **LLMS | GPT | Lambdas**
+I build responsive, high-performance web applications with modern frontend frameworks, secure databases, and clean UI components.
 
-- 💬 Ask me about **React, Next.js and Typescript**
+---
 
-- 📫 How to reach me **waleed1892@gmail.com**
+### 💻 Tech Stack & Tools
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OY6Ve3Zs07McnmYyRxKliXXRPXWE5eW1/view](https://drive.google.com/file/d/1OY6Ve3Zs07McnmYyRxKliXXRPXWE5eW1/view)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- ⚡ Fun fact **I think I'm in a loop of javascript.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/waleed-react-nextjs-expert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/waleed-react-nextjs-expert" height="30" width="40" /></a>
-</p>
+### 🚀 Highlight Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+#### 🏢 [RFI Zero](https://github.com/waleed1892/rfi-zero) — Construction Drawing Management Portal
+*   **What it is:** A secure portal for construction professionals to register, upload, and audit PDF plans.
+*   **Key Tech:** Next.js 16, Supabase (Auth, DB, Storage), shadcn/ui, Tailwind CSS v4, Zod, React Hook Form.
+*   **Key Achievement:** Implemented strict HTTP security headers (CSP, HSTS), drag-and-drop validation utilizing magic byte checkers (`%PDF`), and Row-Level Security (RLS) policies.
+*   *🔗 [Live Demo](https://rfi-zero.vercel.app)*
 
+#### ✈️ [TravelCo](https://github.com/waleed1892/travel-co) — Modern Travel Company Landing Page
+*   **What it is:** High-converting, fully responsive landing page optimized for Core Web Vitals.
+*   **Key Tech:** Next.js, Tailwind CSS, shadcn/ui, TypeScript.
+*   **Key Achievement:** Achieved near-perfect Lighthouse performance scores via image compression and bundle optimization.
+*   *🔗 [Live Demo](https://travel-co-ashy.vercel.app)*
+
+---
+
+### 📫 Connect with Me
+
+*   💼 **Resume:** [View My CV / Resume](https://drive.google.com/file/d/1OY6Ve3Zs07McnmYyRxKliXXRPXWE5eW1/view)
+*   📧 **Email:** [waleed1892@gmail.com](mailto:waleed1892@gmail.com)
+*   📍 **Location:** UAE / Saudi Arabia / Remote
