@@ -1,5 +1,5 @@
 # Hi, I'm Waleed Zahid 👋
-### Full-Stack Software Engineer | React • Next.js • TypeScript • Node.js
+### Full-Stack Software Engineer | React • Next.js • TypeScript • Laravel • AWS
 
 I build responsive, high-performance web applications with modern frontend frameworks, secure databases, and clean UI components.
 
@@ -12,9 +12,11 @@ I build responsive, high-performance web applications with modern frontend frame
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -36,6 +38,8 @@ I build responsive, high-performance web applications with modern frontend frame
 
 ### 📫 Connect with Me
 
+*   🌐 **Portfolio:** [waleedzahid.dev](https://www.waleedzahid.dev/)
 *   💼 **Resume:** [View My CV / Resume](https://drive.google.com/file/d/1OY6Ve3Zs07McnmYyRxKliXXRPXWE5eW1/view)
 *   📧 **Email:** [waleed1892@gmail.com](mailto:waleed1892@gmail.com)
 *   📍 **Location:** UAE / Saudi Arabia / Remote
+
