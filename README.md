@@ -1,6 +1,6 @@
 # Waleed Zahid
 
-### Senior Full Stack Developer · React.js · Next.js · TypeScript · Node.js
+### Senior Full-Stack Engineer · React.js · Next.js · TypeScript · Node.js
 
 I build production SaaS platforms and workflow-heavy web applications end to end—from
 system design, data modeling, and API architecture to polished frontend experiences,
@@ -10,12 +10,22 @@ My recent work includes AI-assisted document workflows, Microsoft Word add-ins, 
 B2B SaaS platforms, admin systems, third-party integrations, and operational tools for
 distributed product teams.
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Material UI
-- **Backend:** Node.js, Laravel, FastAPI, REST APIs, background jobs, queues
-- **Data & Platform:** PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, CI/CD
-- **Architecture:** System design, API design, data modeling, workflow automation
-- **Security & Integrations:** Authentication, RBAC, OAuth, webhooks, audit-friendly workflows
-- **AI & Documents:** OpenAI, Anthropic, LangChain, vector search, document processing
+## Core Stack & Engineering Focus
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,fastapi,postgres,mongodb,redis,aws,docker&perline=11"
+    alt="React, Next.js, TypeScript, Node.js, Laravel, FastAPI, PostgreSQL, MongoDB, Redis, AWS, and Docker"
+  />
+</p>
+
+**Architecture & delivery:** System design, API design, data modeling, workflow
+automation, background jobs, queues, CI/CD, observability, and production support.
+
+**Security & integrations:** Authentication, RBAC, OAuth, webhooks, audit-friendly
+workflows, third-party APIs, and document-management integrations.
+
+**AI & documents:** OpenAI, Anthropic, LangChain, vector search, document processing,
+and Microsoft Word add-ins.
 
 ## Selected Public Work
 
